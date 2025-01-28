@@ -1,4 +1,12 @@
 ## Hi there 👋
+#### My name is Tanner Jackley, and I am currently a computer science student at Northwest Missouri State University
+
+- 🔭 I’m currently looking for a 2025 summer internship
+- 🌱 I’m currently learning HTML, CSS, C, assembly, JavaScript, web development
+- 😄 My favorite languages are Python and Java
+- 📫 How to reach me: tannerjackley@gmail.com
+- ⚡ Fun fact: I love playing and watching soccer!
+
 
 <!--
 **tanner-jackley/tanner-jackley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
